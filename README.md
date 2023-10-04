@@ -3,7 +3,7 @@
 To upgrade your pip environment, run the following command:
 
 ```
-python -m pip install --upgrade pip
+$ python -m pip install --upgrade pip
 ```
 
 To manually create a virtualenv on MacOS and Linux:
